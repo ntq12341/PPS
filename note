@@ -1,0 +1,10 @@
+- 
+
+-----------------------
+x Spline 
+-----------------------
+> Giải hệ pt tuyến tính : Gauss-Jordan
+> Nhân chia đa thức : Horner
+> Giá trị đa thức , đạo hàm cấp k tại 1 điểm : Horner
+> Tìm các mốc nội suy tối ưu trên 1 đoạn : MocToiUu 
+> Tính xấp xỉ đạo hàm qua các mốc nội suy : DaoHam 
